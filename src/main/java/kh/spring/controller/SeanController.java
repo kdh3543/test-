@@ -4,5 +4,5 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class SeanController {
-	// 시현시현11
+	// 글로벌 시현으로 수정
 }
