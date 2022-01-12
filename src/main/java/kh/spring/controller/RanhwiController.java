@@ -9,6 +9,6 @@ public class RanhwiController {
 	@RequestMapping("ranhwi")
 	public String home() {
 		
-		return "home";
+		return " asdfasfa" ;
 	}
 }
